@@ -24,6 +24,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
