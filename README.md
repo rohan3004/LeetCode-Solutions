@@ -19,6 +19,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
@@ -42,6 +43,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -66,6 +68,7 @@
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
