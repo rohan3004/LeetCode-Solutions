@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0494-target-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -73,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
