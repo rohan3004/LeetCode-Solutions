@@ -37,6 +37,7 @@
 | [0152-maximum-product-subarray](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0940-fruit-into-baskets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -80,6 +81,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -153,6 +155,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [2868-continuous-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
