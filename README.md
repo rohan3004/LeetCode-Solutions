@@ -218,6 +218,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -248,6 +250,7 @@
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Backtracking
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
