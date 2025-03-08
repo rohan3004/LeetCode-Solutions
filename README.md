@@ -35,6 +35,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
