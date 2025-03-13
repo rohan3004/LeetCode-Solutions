@@ -110,6 +110,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3643-zero-array-transformation-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [2465-shifting-letters-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
