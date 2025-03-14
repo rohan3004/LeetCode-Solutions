@@ -59,6 +59,7 @@
 | [0952-word-subsets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -163,6 +164,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
