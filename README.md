@@ -73,6 +73,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1293-three-consecutive-odds](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
