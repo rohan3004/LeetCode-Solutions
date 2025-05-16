@@ -48,6 +48,7 @@
 | [2465-shifting-letters-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -144,6 +145,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -317,6 +319,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
