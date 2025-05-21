@@ -63,6 +63,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -199,6 +200,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -600,6 +602,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
