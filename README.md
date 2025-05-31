@@ -78,6 +78,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [0945-snakes-and-ladders](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -532,6 +533,7 @@
 | [0684-redundant-connection](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -632,6 +634,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2145-grid-game) |
