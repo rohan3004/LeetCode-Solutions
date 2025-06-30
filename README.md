@@ -87,6 +87,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -312,6 +314,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -447,6 +450,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -466,6 +470,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
