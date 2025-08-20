@@ -115,6 +115,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -457,6 +458,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -840,6 +842,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2145-grid-game) |
