@@ -97,6 +97,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -257,6 +258,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -849,6 +851,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
