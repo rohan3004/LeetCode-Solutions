@@ -276,6 +276,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -371,6 +372,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -400,6 +402,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -639,6 +642,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
@@ -649,6 +653,7 @@
 | [3678-design-task-manager](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -970,6 +975,7 @@
 | [2434-design-a-number-container-system](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
