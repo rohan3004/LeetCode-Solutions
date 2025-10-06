@@ -119,6 +119,7 @@
 | [0611-valid-triangle-number](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0794-swim-in-rising-water](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -398,6 +399,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -564,6 +566,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -798,6 +801,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -823,6 +827,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
@@ -957,6 +962,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -996,6 +1002,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
