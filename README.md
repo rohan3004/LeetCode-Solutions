@@ -123,6 +123,7 @@
 | [0011-container-with-most-water](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -910,6 +911,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0326-power-of-three) |
