@@ -341,6 +341,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3427-special-array-ii) |
@@ -433,6 +434,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3447-clear-digits) |
