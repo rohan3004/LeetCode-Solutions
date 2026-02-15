@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -421,6 +422,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1001,6 +1003,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -1280,6 +1283,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
