@@ -331,6 +331,7 @@
 | [2868-continuous-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2906-construct-product-matrix](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -928,6 +929,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2906-construct-product-matrix](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -1456,6 +1458,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
