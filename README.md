@@ -326,6 +326,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -589,6 +590,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2615-sum-of-distances](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -987,6 +989,7 @@
 | [2465-shifting-letters-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
