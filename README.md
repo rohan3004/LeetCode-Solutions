@@ -164,6 +164,7 @@
 | [0135-candy](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -864,6 +865,7 @@
 | [0120-triangle](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -1147,6 +1149,7 @@
 | [0326-power-of-three](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
