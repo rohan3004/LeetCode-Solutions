@@ -43,6 +43,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0952-word-subsets) |
@@ -534,6 +535,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
