@@ -333,6 +333,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -522,6 +523,7 @@
 | [2402-meeting-rooms-iii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2751-robot-collisions) |
