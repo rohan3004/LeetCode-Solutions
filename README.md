@@ -18,6 +18,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -304,6 +305,7 @@
 | [2145-grid-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -541,6 +543,7 @@
 | [2069-walking-robot-simulation-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
