@@ -1499,6 +1499,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1542,6 +1543,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2685-count-the-number-of-complete-components](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1966,6 +1968,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1986,6 +1989,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
