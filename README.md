@@ -220,6 +220,7 @@
 | [0840-magic-squares-in-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1040,6 +1041,7 @@
 | [0826-soup-servings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1359,6 +1361,7 @@
 | [0830-largest-triangle-area](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -2022,6 +2025,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
