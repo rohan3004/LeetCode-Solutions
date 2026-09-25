@@ -68,6 +68,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -708,6 +709,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -919,6 +921,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -1596,6 +1599,7 @@
 | [0085-maximal-rectangle](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1714,6 +1718,7 @@
 | [0854-making-a-large-island](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
+| [1096-brace-expansion-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
@@ -1816,6 +1821,7 @@
 | [0401-binary-watch](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0679-24-game) |
+| [1096-brace-expansion-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
