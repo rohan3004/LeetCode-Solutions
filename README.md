@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -1114,6 +1115,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -1830,6 +1832,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0401-binary-watch](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -2289,6 +2292,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
