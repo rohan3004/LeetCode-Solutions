@@ -56,6 +56,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0761-special-binary-string) |
@@ -1027,6 +1028,7 @@
 | [0011-container-with-most-water](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1129,6 +1131,7 @@
 | [0474-ones-and-zeroes](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0799-champagne-tower) |
@@ -1612,6 +1615,7 @@
 | [0020-valid-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -2297,6 +2301,7 @@
 | [0020-valid-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rohan3004/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohan3004/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
