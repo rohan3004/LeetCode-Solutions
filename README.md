@@ -688,6 +688,7 @@
 | [3934-smallest-unique-subarray](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1101,6 +1102,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -1203,6 +1205,7 @@
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1380,6 +1383,7 @@
 | [3678-design-task-manager](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3863-power-grid-maintenance](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rohan3004/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Prefix Sum
 |  |
